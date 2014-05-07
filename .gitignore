@@ -1,5 +1,6 @@
 # Comment *.html , ignoraria TODOS lo html
 mail config.html
+temp2.html
 .DS_Store
 *.zip
 *.gz
