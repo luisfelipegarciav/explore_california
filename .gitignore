@@ -1,0 +1,11 @@
+# Comment *.html , ignoraria TODOS lo html
+mail config.html
+.DS_Store
+*.zip
+*.gz
+# '*'' Es solo para archivos , no para directorios hijos
+log/*.log
+log/*.log.[0-9]
+assets/photoshop/
+assets/videos/
+!assets/videos/tour_*.mp4
